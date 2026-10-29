@@ -4,7 +4,7 @@ Windows에서 원신 화면을 캡처하고 위치를 인식해 공식 티바트
 
 ## 설치와 첫 실행
 
-1. [Releases](../../releases)에서 Windows ZIP을 받아 폴더 전체를 압축 해제합니다.
+1. [Releases](https://github.com/ssapgosu12/genshin-collect-marker/releases)에서 Windows ZIP을 받아 폴더 전체를 압축 해제합니다.
 2. Windows 11 x64와 **Google Chrome**이 필요합니다. Python 설치는 필요 없습니다.
 3. `GenshinCollectMarker.exe`를 실행하고 Windows 관리자 권한 요청을 승인합니다. 관리자 권한으로 실행 중인 게임의 키 입력을 읽기 위해 필요합니다.
 4. 처음 열리는 **공식 티바트 지도에서 본인 계정으로 로그인**합니다. 앱이 로그인 여부를 읽기 요청으로 확인한 후 캡처 키를 활성화합니다. 지도 창을 닫아도 앱은 계속 실행됩니다.
