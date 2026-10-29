@@ -1,0 +1,5 @@
+numpy==2.4.6
+opencv-python==4.11.0.86
+Pillow==11.1.0
+playwright==1.49.1
+tzdata==2025.2

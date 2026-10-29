@@ -1,0 +1,10 @@
+capture-settings.json
+captures/
+inspection/
+official-browser-profile/
+__pycache__/
+dist/
+build/
+*.pdb
+*.obj
+sounds/.playback/

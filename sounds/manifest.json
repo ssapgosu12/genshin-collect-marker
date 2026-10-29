@@ -1,0 +1,982 @@
+{
+  "success": {
+    "klee": {
+      "name": "클레",
+      "clips": [
+        {
+          "file": "success/klee-1.wav",
+          "name": "클레가 또 보물을 찾았어",
+          "duration": 2.8,
+          "source": "https://www.youtube.com/watch?v=crUgVFUJVIo",
+          "source_title": "[원신] \"캐릭터 대사\" 페보니우스 기사단 불꽃기사 『클레』 [필드 전투 대사] (with. 클레)",
+          "source_start": 45.62,
+          "leading_trim_seconds": 0,
+          "source_end": 48.169771,
+          "original_end": 47.62,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "ff72620465bd1edf075dd787e42c459e5bc94f74411c64a19b57d2c730a0f55b"
+        },
+        {
+          "file": "success/klee-2.wav",
+          "name": "반짝반짝해서 기분 좋아",
+          "duration": 3.06,
+          "source": "https://www.youtube.com/watch?v=crUgVFUJVIo",
+          "source_title": "[원신] \"캐릭터 대사\" 페보니우스 기사단 불꽃기사 『클레』 [필드 전투 대사] (with. 클레)",
+          "source_start": 50.64,
+          "leading_trim_seconds": 0,
+          "source_end": 53.173437,
+          "original_end": 52.9,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "a95a37150b0db8feb22e97803bd8a751375067a076c0a242a6929b7180bbafcc"
+        },
+        {
+          "file": "success/klee-3.wav",
+          "name": "땅 밑에 보물이 더 있으려나",
+          "duration": 3.25,
+          "source": "https://www.youtube.com/watch?v=crUgVFUJVIo",
+          "source_title": "[원신] \"캐릭터 대사\" 페보니우스 기사단 불꽃기사 『클레』 [필드 전투 대사] (with. 클레)",
+          "source_start": 56.3,
+          "leading_trim_seconds": 0,
+          "source_end": 59.036583,
+          "original_end": 58.75,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "648377c67d96d9e8b9f306bb331e39400d8a8dcdd8491f5d9c88de9b165e72fa"
+        }
+      ]
+    },
+    "nahida": {
+      "name": "나히다",
+      "clips": [
+        {
+          "file": "success/nahida-1.wav",
+          "name": "호기심의 포상이야",
+          "duration": 2.008875,
+          "source": "https://www.youtube.com/watch?v=dEqjQAb13FA",
+          "source_title": "원신 나히다 대사 모음 (한국어ver.) - 성우 박시윤",
+          "source_start": 668.931125,
+          "leading_trim_seconds": 0.891125,
+          "source_end": 670.445833,
+          "original_end": 670.14,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "a2ed49863c22ac49d68a482102204d2bce1c54cb6ce0ed0c4e01c42d199c8084"
+        },
+        {
+          "file": "success/nahida-2.wav",
+          "name": "누가 남긴 선물일까",
+          "duration": 2.2155416666666667,
+          "source": "https://www.youtube.com/watch?v=dEqjQAb13FA",
+          "source_title": "원신 나히다 대사 모음 (한국어ver.) - 성우 박시윤",
+          "source_start": 670.744458,
+          "leading_trim_seconds": 0.604458,
+          "source_end": 672.380271,
+          "original_end": 672.16,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "257e0ae10a88b7a80a40a600c25774ea673ee9f7efb2909a18bf2661d1db6984"
+        },
+        {
+          "file": "success/nahida-3.wav",
+          "name": "원하는 게 들어 있어",
+          "duration": 2.22,
+          "source": "https://www.youtube.com/watch?v=dEqjQAb13FA",
+          "source_title": "원신 나히다 대사 모음 (한국어ver.) - 성우 박시윤",
+          "source_start": 672.64,
+          "leading_trim_seconds": 0,
+          "source_end": 674.394833,
+          "original_end": 674.06,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "446099cb6abbd614997110d2d97c7d3e49e0d84019b138249256e07b8695561e"
+        },
+        {
+          "file": "success/nahida-4.wav",
+          "name": "정말 고마워",
+          "duration": 1.9394166666666666,
+          "source": "https://www.youtube.com/watch?v=dEqjQAb13FA",
+          "source_title": "원신 나히다 대사 모음 (한국어ver.) - 성우 박시윤",
+          "source_start": 592.260583,
+          "leading_trim_seconds": 0.400583,
+          "source_end": 593.583208,
+          "original_end": 593.4,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "a885018e42f8ec826c81dda479eb5650faeb160d293383191070d8f503b734cc"
+        },
+        {
+          "file": "success/nahida-5.wav",
+          "name": "어서 가자 이번 한 번은 기대해도 좋아",
+          "duration": 4.405666666666667,
+          "source": "https://www.youtube.com/watch?v=dEqjQAb13FA",
+          "source_title": "원신 나히다 대사 모음 (한국어ver.) - 성우 박시윤",
+          "source_start": 618.074313,
+          "leading_trim_seconds": 0.554313,
+          "source_end": 622.049937,
+          "original_end": 621.68,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "6b6d70cdf3fd769fde2b2d4e9c414762b340326ae98a0ed6996a6317672362b6"
+        },
+        {
+          "file": "success/nahida-6.wav",
+          "name": "또 견문을 넓힐 수 있겠어",
+          "duration": 2.64,
+          "source": "https://www.youtube.com/watch?v=dEqjQAb13FA",
+          "source_title": "원신 나히다 대사 모음 (한국어ver.) - 성우 박시윤",
+          "source_start": 702.14,
+          "leading_trim_seconds": 0,
+          "source_end": 704.460979,
+          "original_end": 703.98,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "0415996064d80ade6bfff1131519b5b78923f9c9f261cfce84f3714e4df35d0b"
+        }
+      ]
+    },
+    "kachina": {
+      "name": "카치나",
+      "clips": [
+        {
+          "file": "success/kachina-1.wav",
+          "name": "우와 반짝이는 돌멩이",
+          "duration": 3.99,
+          "source": "https://www.youtube.com/watch?v=XC_3jZM_Hgo",
+          "source_title": "[원신] 카치나 호감도 6레벨 대사 모음 (한국어ver.) - 성우 손선영",
+          "source_start": 830.36,
+          "leading_trim_seconds": 0,
+          "source_end": 834.3499999999999,
+          "original_end": 833.55,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "d321baf8d474343227e93e094a2a73fcb3da37e7044007ff58a41b7c53e948b7"
+        },
+        {
+          "file": "success/kachina-2.wav",
+          "name": "돌멩이는 정말 예쁘지",
+          "duration": 4.64,
+          "source": "https://www.youtube.com/watch?v=XC_3jZM_Hgo",
+          "source_title": "[원신] 카치나 호감도 6레벨 대사 모음 (한국어ver.) - 성우 손선영",
+          "source_start": 837.68,
+          "leading_trim_seconds": 0,
+          "source_end": 842.0156039999999,
+          "original_end": 841.52,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "6337abc3ad4787970d7b721f7cb703c484f2e31698a6ec268489b5000e2edd9c"
+        },
+        {
+          "file": "success/kachina-3.wav",
+          "name": "정리하는 거 도와줄까",
+          "duration": 4.4,
+          "source": "https://www.youtube.com/watch?v=XC_3jZM_Hgo",
+          "source_title": "[원신] 카치나 호감도 6레벨 대사 모음 (한국어ver.) - 성우 손선영",
+          "source_start": 842.42,
+          "leading_trim_seconds": 0,
+          "source_end": 846.284687,
+          "original_end": 846.02,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "defad5db27290580e1d32fb7ed6b3d60867a5457cc954fe7f62733db3158d018"
+        },
+        {
+          "file": "success/kachina-4.wav",
+          "name": "괜찮아 별거 아냐",
+          "duration": 3.58,
+          "source": "https://www.youtube.com/watch?v=XC_3jZM_Hgo",
+          "source_title": "[원신] 카치나 호감도 6레벨 대사 모음 (한국어ver.) - 성우 손선영",
+          "source_start": 846.72,
+          "leading_trim_seconds": 0,
+          "source_end": 849.6563130000001,
+          "original_end": 849.5,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "53812f1c47390060169a4d11ea7874256b8e3c492ab96e7d560eb7a60ebeb4d2"
+        },
+        {
+          "file": "success/kachina-5.wav",
+          "name": "나 난 할 수 있어",
+          "duration": 3.6,
+          "source": "https://www.youtube.com/watch?v=XC_3jZM_Hgo",
+          "source_title": "[원신] 카치나 호감도 6레벨 대사 모음 (한국어ver.) - 성우 손선영",
+          "source_start": 853.56,
+          "leading_trim_seconds": 0,
+          "source_end": 856.982354,
+          "original_end": 856.36,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "6170c6c4a0ab88ca1f8e4858a969c23667e06e4831e48c3a6b8c2abe4fbc6072"
+        },
+        {
+          "file": "success/kachina-6.wav",
+          "name": "잘됐다 우리 같이 가자",
+          "duration": 4.12,
+          "source": "https://www.youtube.com/watch?v=XC_3jZM_Hgo",
+          "source_title": "[원신] 카치나 호감도 6레벨 대사 모음 (한국어ver.) - 성우 손선영",
+          "source_start": 887.0,
+          "leading_trim_seconds": 0,
+          "source_end": 891.12,
+          "original_end": 890.32,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "4229e529bf6015a113408ff7a8342332ea45984117849433400f54d33a67e262"
+        }
+      ]
+    },
+    "furina": {
+      "name": "푸리나",
+      "clips": [
+        {
+          "file": "success/furina-1.wav",
+          "name": "얼른 넣어둬 내가 허락하지",
+          "duration": 4.88,
+          "source": "https://www.youtube.com/watch?v=Aqhwo_TVheU",
+          "source_title": "[원신] 푸리나 대사 모음 (한국어ver.) - 성우 김하영",
+          "source_start": 854.58,
+          "leading_trim_seconds": 0,
+          "source_end": 858.9877710000001,
+          "original_end": 858.66,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "8ec5d18a36a70938f6e88c27523e718929243340e3bbacc5d4643429f0c917cd"
+        },
+        {
+          "file": "success/furina-2.wav",
+          "name": "흥미로운 물건은 많을수록 좋지",
+          "duration": 3.42,
+          "source": "https://www.youtube.com/watch?v=Aqhwo_TVheU",
+          "source_title": "[원신] 푸리나 대사 모음 (한국어ver.) - 성우 김하영",
+          "source_start": 860.3,
+          "leading_trim_seconds": 0,
+          "source_end": 863.1781669999999,
+          "original_end": 862.92,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "f00772b04b5a58ec448d6699b620959bf6ac2af01afd824c4092d47003d64b55"
+        },
+        {
+          "file": "success/furina-3.wav",
+          "name": "점점 발전하고 있어 역시 이 몸이야",
+          "duration": 3.84,
+          "source": "https://www.youtube.com/watch?v=3XyLmbmt9_E",
+          "source_title": "[Genshin Impact]  Furina Voice Lines(KR)/푸리나 음성 모음(한국어)",
+          "source_start": 879.08,
+          "leading_trim_seconds": 0,
+          "source_end": 882.383958,
+          "original_end": 882.12,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "58acdad8cd8182bcd1a3c11a232db3980783c502572909a69a902de367b61db4"
+        },
+        {
+          "file": "success/furina-4.wav",
+          "name": "제법 센스 있네",
+          "duration": 2.64,
+          "source": "https://www.youtube.com/watch?v=3XyLmbmt9_E",
+          "source_title": "[Genshin Impact]  Furina Voice Lines(KR)/푸리나 음성 모음(한국어)",
+          "source_start": 815.1,
+          "leading_trim_seconds": 0,
+          "source_end": 817.74,
+          "original_end": 816.94,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "2dd89ce2fdd8a119eeb3abca647bf54642db6038bd316691645761ccc0a88682"
+        },
+        {
+          "file": "success/furina-5.wav",
+          "name": "직접 노력해서 얻은 힘은 보람차다니까",
+          "duration": 4.64,
+          "source": "https://www.youtube.com/watch?v=3XyLmbmt9_E",
+          "source_title": "[Genshin Impact]  Furina Voice Lines(KR)/푸리나 음성 모음(한국어)",
+          "source_start": 871.33,
+          "leading_trim_seconds": 0,
+          "source_end": 875.9699999999999,
+          "original_end": 875.17,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "ba189c6c01f60504ac7425cfa1b5c535aabc933d79acd995d24942050a5c9be4"
+        },
+        {
+          "file": "success/furina-6.wav",
+          "name": "역시 내가 없으면 안 되겠지",
+          "duration": 3.42,
+          "source": "https://www.youtube.com/watch?v=Aqhwo_TVheU",
+          "source_title": "[원신] 푸리나 대사 모음 (한국어ver.) - 성우 김하영",
+          "source_start": 896.14,
+          "leading_trim_seconds": 0,
+          "source_end": 899.183917,
+          "original_end": 898.76,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "5441cfa28b574a4b61763f18a5a250d71812de0338e2c52f2ac46434fd1742e1"
+        }
+      ]
+    },
+    "linnea": {
+      "name": "린네아",
+      "clips": [
+        {
+          "file": "success/linnea-1.wav",
+          "name": "좋은 물건 들었어",
+          "duration": 2.38,
+          "source": "https://www.youtube.com/watch?v=23KP2VDs4l8",
+          "source_title": "[원신] 린네아 대사 모음｜박물 도감 일부 포함 (한국어ver.) - 성우 김윤채",
+          "source_start": 688.14,
+          "leading_trim_seconds": 0,
+          "source_end": 690.0566249999999,
+          "original_end": 689.72,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "059e850170c0b3e05b80e3714d3d4d3456f8256096bfeb130c771eb775866667"
+        },
+        {
+          "file": "success/linnea-2.wav",
+          "name": "반짝거려 루미 이거 먹으면 안 돼",
+          "duration": 4.18,
+          "source": "https://www.youtube.com/watch?v=23KP2VDs4l8",
+          "source_title": "[원신] 린네아 대사 모음｜박물 도감 일부 포함 (한국어ver.) - 성우 김윤채",
+          "source_start": 690.62,
+          "leading_trim_seconds": 0,
+          "source_end": 694.522583,
+          "original_end": 694,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "f1640c6ecfbb6170e74bd5d8139fc408bfdc99dcb0e9c331b30fcdb8e82b4b99"
+        },
+        {
+          "file": "success/linnea-3.wav",
+          "name": "좋아 보인다 너 운이 되게 좋네",
+          "duration": 3.2705,
+          "source": "https://www.youtube.com/watch?v=23KP2VDs4l8",
+          "source_title": "[원신] 린네아 대사 모음｜박물 도감 일부 포함 (한국어ver.) - 성우 김윤채",
+          "source_start": 695.2295,
+          "leading_trim_seconds": 1.0295,
+          "source_end": 698.029292,
+          "original_end": 697.7,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "a67006d44fce3a076b656d21de66169131adf13862ece582920f1766dfa8c74f"
+        }
+      ]
+    },
+    "noelle": {
+      "name": "노엘",
+      "clips": [
+        {
+          "file": "success/noelle-1.wav",
+          "name": "보물에 먼지가 쌓였어요 좀 닦을게요",
+          "duration": 4.42,
+          "source": "https://www.youtube.com/watch?v=p2cUH-dYiM0",
+          "source_title": "원신 보물상자 오픈 시 출력되는 캐릭터 신규 대사(음성) 모음 | 2.1 업데이트 내역 | 대대리",
+          "source_start": 105.8,
+          "leading_trim_seconds": 0,
+          "source_end": 109.734062,
+          "original_end": 109.42,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "dea33d604c9b636760cdc0461875ce4e19eeb780c1f541013d54212241dd95f6"
+        },
+        {
+          "file": "success/noelle-2.wav",
+          "name": "고마워요 더 많은 사람을 도울 수 있겠어요",
+          "duration": 5.24,
+          "source": "https://www.youtube.com/watch?v=Sks8w0LtY0w",
+          "source_title": "원신 노엘 모든 음성(한국어)-Genshin Impact",
+          "source_start": 666.59,
+          "leading_trim_seconds": 0,
+          "source_end": 671.278687,
+          "original_end": 671.03,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "a7bfb88b9e478b35d2ff0aa1217d68242c806f4d5e4c99b707c4a124a86ac24b"
+        }
+      ]
+    },
+    "sucrose": {
+      "name": "설탕",
+      "clips": [
+        {
+          "file": "success/sucrose-1.wav",
+          "name": "수많은 연구 재료를 수집했어요",
+          "duration": 3.7954583333333334,
+          "source": "https://www.youtube.com/watch?v=db1YX15SnHA",
+          "source_title": "원신 설탕 모든 음성(한국어)-Genshin Impact",
+          "source_start": 708.654542,
+          "leading_trim_seconds": 1.804542,
+          "source_end": 712.4499999999999,
+          "original_end": 711.65,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "ef3f8b643f71bd6a776ce95cb7c339a3cdce228cb696ce3538a0ffaeb2ba50bb"
+        },
+        {
+          "file": "success/sucrose-2.wav",
+          "name": "고마워요 잘 사용할게요",
+          "duration": 3.22,
+          "source": "https://www.youtube.com/watch?v=db1YX15SnHA",
+          "source_title": "원신 설탕 모든 음성(한국어)-Genshin Impact",
+          "source_start": 711.61,
+          "leading_trim_seconds": 0,
+          "source_end": 714.295604,
+          "original_end": 714.03,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "1721203b5259ae2d0e14c3b5002b0374ad1984f56b4e06bc89cef7a00f6031df"
+        },
+        {
+          "file": "success/sucrose-3.wav",
+          "name": "연구 재료는 충분히 수집했어요",
+          "duration": 3.56,
+          "source": "https://www.youtube.com/watch?v=db1YX15SnHA",
+          "source_title": "원신 설탕 모든 음성(한국어)-Genshin Impact",
+          "source_start": 729.03,
+          "leading_trim_seconds": 0,
+          "source_end": 732.5899999999999,
+          "original_end": 731.79,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "d113bec0481f61b395fe1e9b169a13a357311b7d1ec8da6779b6c220dc384345"
+        }
+      ]
+    },
+    "diona": {
+      "name": "디오나",
+      "clips": [
+        {
+          "file": "success/diona-1.wav",
+          "name": "술을 맛없게 하는 재료야",
+          "duration": 2.62,
+          "source": "https://www.youtube.com/watch?v=Ik_qdKDuo7k",
+          "source_title": "원신 디오나 대사 모음 (한국어ver.) - 성우 우정신",
+          "source_start": 647.28,
+          "leading_trim_seconds": 0,
+          "source_end": 649.9,
+          "original_end": 649.1,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "2485661630ef0135c75d2e89a726b55f544f041ac343b21bf2f2c26e9d333264"
+        },
+        {
+          "file": "success/diona-2.wav",
+          "name": "반짝반짝해 다 내 거야",
+          "duration": 3.58,
+          "source": "https://www.youtube.com/watch?v=Ik_qdKDuo7k",
+          "source_title": "원신 디오나 대사 모음 (한국어ver.) - 성우 우정신",
+          "source_start": 651.06,
+          "leading_trim_seconds": 0,
+          "source_end": 654.345958,
+          "original_end": 653.84,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "3347ead31e4db8f39147adfc5d70cb0ca9c6410757ed4b9237d8703a5622024b"
+        },
+        {
+          "file": "success/diona-3.wav",
+          "name": "보물상자에 뭐가 있는지 궁금해",
+          "duration": 3.86,
+          "source": "https://www.youtube.com/watch?v=Ik_qdKDuo7k",
+          "source_title": "원신 디오나 대사 모음 (한국어ver.) - 성우 우정신",
+          "source_start": 654.98,
+          "leading_trim_seconds": 0,
+          "source_end": 658.484958,
+          "original_end": 658.04,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "1617f5a048581cdfb742c8cfdac79d59ca75b26d9d4e0d6508c77de417c84cfe"
+        }
+      ]
+    },
+    "yae": {
+      "name": "야에 미코",
+      "clips": [
+        {
+          "file": "success/yae-1.wav",
+          "name": "재밌는 물건이라도 있어",
+          "duration": 3.08,
+          "source": "https://www.youtube.com/watch?v=rcmGpWYffJ0",
+          "source_title": "[원신] \"캐릭터 대사\" 『나루카미 다이샤 대무녀 \"야에 미코\"』 [필드 전투 대사] (with. 미코)",
+          "source_start": 39.82,
+          "leading_trim_seconds": 0,
+          "source_end": 42.538125,
+          "original_end": 42.1,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "2eacb8dea06c5e26fed5ada06a4560e029b3e22712477b7bcda16b65ad8d6615"
+        },
+        {
+          "file": "success/yae-2.wav",
+          "name": "어서 열어봐",
+          "duration": 2.6,
+          "source": "https://www.youtube.com/watch?v=rcmGpWYffJ0",
+          "source_title": "[원신] \"캐릭터 대사\" 『나루카미 다이샤 대무녀 \"야에 미코\"』 [필드 전투 대사] (with. 미코)",
+          "source_start": 49.46,
+          "leading_trim_seconds": 0,
+          "source_end": 52.059999999999995,
+          "original_end": 51.26,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "bde7f703c746b7177ad37c65a0a64d3a497e0431ae9432f8f3de682a4bf30075"
+        }
+      ]
+    },
+    "raiden": {
+      "name": "라이덴 쇼군",
+      "clips": [
+        {
+          "file": "success/raiden-1.wav",
+          "name": "내겐 쓸모없는 물건이니 받거라",
+          "duration": 3.0592083333333333,
+          "source": "https://www.youtube.com/watch?v=kjXQ86-1JR0",
+          "source_title": "[원신] 라이덴 쇼군 대사 모음 (한국어ver.) - 성우 박지윤",
+          "source_start": 610.3207920000001,
+          "leading_trim_seconds": 0.380792,
+          "source_end": 612.778,
+          "original_end": 612.58,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "54afb786de87126a1e8a567e8295614ec0ca111c7dcd382fa998801802ba8e75"
+        }
+      ]
+    },
+    "ayaka": {
+      "name": "아야카",
+      "clips": [
+        {
+          "file": "success/ayaka-1.wav",
+          "name": "진귀한 물건을 찾는 것도 고상한 취미",
+          "duration": 5.32,
+          "source": "https://www.youtube.com/watch?v=KRpg4S_g5K4",
+          "source_title": "[원신] 카미사토 아야카 대사 모음 (한국어ver.) - 성우 이유리",
+          "source_start": 650.16,
+          "leading_trim_seconds": 0,
+          "source_end": 654.785271,
+          "original_end": 654.68,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "f8bf6a446c10e50e2cf6ae7f52e928dfea586c2284b5c8fdf8774dd7609388c4"
+        },
+        {
+          "file": "success/ayaka-2.wav",
+          "name": "오늘은 운이 좋네요",
+          "duration": 3.82,
+          "source": "https://www.youtube.com/watch?v=KRpg4S_g5K4",
+          "source_title": "[원신] 카미사토 아야카 대사 모음 (한국어ver.) - 성우 이유리",
+          "source_start": 654.68,
+          "leading_trim_seconds": 0,
+          "source_end": 657.7252709999999,
+          "original_end": 657.7,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "80bc717ca954e99d0f4bcb39e03d829c400e13f95984a25749784942f53aaa23"
+        },
+        {
+          "file": "success/ayaka-3.wav",
+          "name": "이 행운 소중히 간직할게요",
+          "duration": 4.08,
+          "source": "https://www.youtube.com/watch?v=KRpg4S_g5K4",
+          "source_title": "[원신] 카미사토 아야카 대사 모음 (한국어ver.) - 성우 이유리",
+          "source_start": 657.7,
+          "leading_trim_seconds": 0,
+          "source_end": 661.034083,
+          "original_end": 660.98,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "9664e76144e464b15c9b63a0e42e234e98b25f5764bcb955c4f70e28ea72946a"
+        }
+      ]
+    },
+    "vesna": {
+      "name": "베스나",
+      "clips": [
+        {
+          "file": "success/vesna-1.wav",
+          "name": "새 소장품 입고",
+          "duration": 2.76,
+          "source": "https://www.youtube.com/watch?v=7Vmsf1nPj4o",
+          "source_title": "베스나 호감도 대사【원신】",
+          "source_start": 907.5,
+          "leading_trim_seconds": 0,
+          "source_end": 909.675042,
+          "original_end": 909.46,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "3092c7ce81326d3398aa6aaf0a7be93cd9a6d8c9788eedf49d591d86da9dd70a"
+        },
+        {
+          "file": "success/vesna-2.wav",
+          "name": "너 하나 나 하나 다 나눴다",
+          "duration": 4.3,
+          "source": "https://www.youtube.com/watch?v=7Vmsf1nPj4o",
+          "source_title": "베스나 호감도 대사【원신】",
+          "source_start": 910.3,
+          "leading_trim_seconds": 0,
+          "source_end": 914.4302289999999,
+          "original_end": 913.8,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "c362561ae81272bc72b6113b2b0de1e4a736d02889f656db93f96f28686f395c"
+        }
+      ]
+    },
+    "citlali": {
+      "name": "시틀라리",
+      "clips": [
+        {
+          "file": "success/citlali-1.wav",
+          "name": "좋네 챙기자",
+          "duration": 2.4,
+          "source": "https://www.youtube.com/watch?v=gQ1InjHHlJI",
+          "source_title": "[원신] 시틀라리 대사 모음 (한국어ver.) - 성우 이은조",
+          "source_start": 792.07,
+          "leading_trim_seconds": 0,
+          "source_end": 793.933625,
+          "original_end": 793.67,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "9ce312c5d6a71b2df762caaae4a21dd9407672d1853f9d4d48f851cbbfe95de8"
+        },
+        {
+          "file": "success/citlali-2.wav",
+          "name": "챙겨둬 감사기도는 내가 대신해줄게",
+          "duration": 4.628541666666667,
+          "source": "https://www.youtube.com/watch?v=gQ1InjHHlJI",
+          "source_title": "[원신] 시틀라리 대사 모음 (한국어ver.) - 성우 이은조",
+          "source_start": 794.2414789999999,
+          "leading_trim_seconds": 0.571479,
+          "source_end": 798.168062,
+          "original_end": 798.07,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "824431e9606ba4b9156ecfea93130319eedffd80d7e3aa78d171b7011760de28"
+        },
+        {
+          "file": "success/citlali-3.wav",
+          "name": "두 손으로도 들기 버거우면 내가 도와줄게",
+          "duration": 4.135208333333333,
+          "source": "https://www.youtube.com/watch?v=gQ1InjHHlJI",
+          "source_title": "[원신] 시틀라리 대사 모음 (한국어ver.) - 성우 이은조",
+          "source_start": 798.854792,
+          "leading_trim_seconds": 0.884792,
+          "source_end": 802.3910000000001,
+          "original_end": 802.19,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "a2f3df603e15f0daea846071b160b6cb2ea52310eb4e130494e37e4675d0b2c6"
+        },
+        {
+          "file": "success/citlali-4.wav",
+          "name": "아 아무것도 아냐 준비됐어",
+          "duration": 4.6,
+          "source": "https://www.youtube.com/watch?v=gQ1InjHHlJI",
+          "source_title": "[원신] 시틀라리 대사 모음 (한국어ver.) - 성우 이은조",
+          "source_start": 833.0,
+          "leading_trim_seconds": 0,
+          "source_end": 836.919,
+          "original_end": 836.8,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "2ab17d15863567045676f7edd9e4650cba3a8efd75b81650f16315edc7e4775d"
+        },
+        {
+          "file": "success/citlali-5.wav",
+          "name": "그럼 당연히 도와야지",
+          "duration": 2.68,
+          "source": "https://www.youtube.com/watch?v=gQ1InjHHlJI",
+          "source_title": "[원신] 시틀라리 대사 모음 (한국어ver.) - 성우 이은조",
+          "source_start": 837.32,
+          "leading_trim_seconds": 0,
+          "source_end": 839.508458,
+          "original_end": 839.2,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "868e05e5010d8ed078d988571cd26092fb936e2498f4e1a51790014309746851"
+        },
+        {
+          "file": "success/citlali-6.wav",
+          "name": "앞으로 늘 너와 동행할게",
+          "duration": 2.8169583333333335,
+          "source": "https://www.youtube.com/watch?v=gQ1InjHHlJI",
+          "source_title": "[원신] 시틀라리 대사 모음 (한국어ver.) - 성우 이은조",
+          "source_start": 763.5430210000001,
+          "leading_trim_seconds": 1.443021,
+          "source_end": 765.750479,
+          "original_end": 765.56,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "f1452f823458aef0fd0a601988d8476f6990018868607d55e73e19cbd67ea9d4"
+        }
+      ]
+    },
+    "columbina": {
+      "name": "콜롬비나",
+      "clips": [
+        {
+          "file": "success/columbina-1.wav",
+          "name": "깜짝 선물 맞지",
+          "duration": 2.729833333333333,
+          "source": "https://www.youtube.com/watch?v=iHYQanIpzhU",
+          "source_title": "[원신] 콜롬비나 대사 모음 (한국어ver.) - 성우 유영",
+          "source_start": 990.2601460000001,
+          "leading_trim_seconds": 1.190146,
+          "source_end": 992.355771,
+          "original_end": 992.19,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "6d90d7a2123c750a9002674b699dc92a7864d828b60d2307bafc61425ce0728c"
+        },
+        {
+          "file": "success/columbina-2.wav",
+          "name": "얘네도 가출한 거야",
+          "duration": 2.44,
+          "source": "https://www.youtube.com/watch?v=iHYQanIpzhU",
+          "source_title": "[원신] 콜롬비나 대사 모음 (한국어ver.) - 성우 유영",
+          "source_start": 992.91,
+          "leading_trim_seconds": 0,
+          "source_end": 994.826521,
+          "original_end": 994.55,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "a4ab51690aec5a087c6d0cf860983dd3be20ae9de0426c733359efc66b3cccd1"
+        },
+        {
+          "file": "success/columbina-3.wav",
+          "name": "난 이제 공물 필요 없어 너 가져",
+          "duration": 4.28,
+          "source": "https://www.youtube.com/watch?v=iHYQanIpzhU",
+          "source_title": "[원신] 콜롬비나 대사 모음 (한국어ver.) - 성우 유영",
+          "source_start": 995.25,
+          "leading_trim_seconds": 0,
+          "source_end": 999.083083,
+          "original_end": 998.73,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "4b725be9e5e272405f2cefc96b64c1552a66672029419cb835e747414b23782a"
+        }
+      ]
+    },
+    "sandrone": {
+      "name": "산드로네",
+      "clips": [
+        {
+          "file": "success/sandrone-1.wav",
+          "name": "안에 뭐 들었어 딱히 궁금한 건 아니고",
+          "duration": 3.96,
+          "source": "https://www.youtube.com/watch?v=j9C-Ob7VWo0",
+          "source_title": "원신 산드로네 모든 전투 대사 음성 (강은애성우) 한국어",
+          "source_start": 30.74,
+          "leading_trim_seconds": 0,
+          "source_end": 34.211979,
+          "original_end": 33.9,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "877a0a4fb0191a5c76fc3cf9e080658adddeeaaaa27239b0f5580ae75af0e119"
+        },
+        {
+          "file": "success/sandrone-2.wav",
+          "name": "너 가져 그 고생을 해서 찾은 건데",
+          "duration": 3.6,
+          "source": "https://www.youtube.com/watch?v=j9C-Ob7VWo0",
+          "source_title": "원신 산드로네 모든 전투 대사 음성 (강은애성우) 한국어",
+          "source_start": 34.58,
+          "leading_trim_seconds": 0,
+          "source_end": 37.599333,
+          "original_end": 37.38,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "f148412a83ddb720ba8aa598e470f51cc5c754d52d6f47aeb819eb8b1679cb5e"
+        }
+      ]
+    },
+    "ganyu": {
+      "name": "감우",
+      "clips": [
+        {
+          "file": "success/ganyu-1.wav",
+          "name": "수확이 있는 것만으로도 좋은 일이에요",
+          "duration": 3.8093333333333335,
+          "source": "https://www.youtube.com/watch?v=9JJ0b5Ipjag",
+          "source_title": "[원신] 감우 대사 모음 (한국어ver.) - 성우 김선혜",
+          "source_start": 805.130667,
+          "leading_trim_seconds": 0.990667,
+          "source_end": 808.672104,
+          "original_end": 808.14,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "a9ee434ce9080181c9b7084e5821c10fe9669d1e676dd27059cfec8adbcf155b"
+        },
+        {
+          "file": "success/ganyu-2.wav",
+          "name": "아름다운 보물은 사람을 즐겁게 하죠",
+          "duration": 4.307708333333333,
+          "source": "https://www.youtube.com/watch?v=9JJ0b5Ipjag",
+          "source_title": "[원신] 감우 대사 모음 (한국어ver.) - 성우 김선혜",
+          "source_start": 809.292292,
+          "leading_trim_seconds": 1.152292,
+          "source_end": 813.155271,
+          "original_end": 812.8,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "8d91c22b544eabb3edf191cf9d60e3de18de3d10a6b9c2f82f42fa0a59765ab5"
+        },
+        {
+          "file": "success/ganyu-3.wav",
+          "name": "맛있다고요 정말요",
+          "duration": 4.9,
+          "source": "https://www.youtube.com/watch?v=9JJ0b5Ipjag",
+          "source_title": "[원신] 감우 대사 모음 (한국어ver.) - 성우 김선혜",
+          "source_start": 745.1,
+          "leading_trim_seconds": 0,
+          "source_end": 750.0,
+          "original_end": 749.2,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "e06065470eb8843570408ac7857750db286330f0ba3e4ac927e8d194ba1943e0"
+        },
+        {
+          "file": "success/ganyu-4.wav",
+          "name": "일할 시간이 됐나요",
+          "duration": 2.34,
+          "source": "https://www.youtube.com/watch?v=9JJ0b5Ipjag",
+          "source_title": "[원신] 감우 대사 모음 (한국어ver.) - 성우 김선혜",
+          "source_start": 851.08,
+          "leading_trim_seconds": 0,
+          "source_end": 852.890021,
+          "original_end": 852.62,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "7483a3031aa2283ccc349eb04260bc6ed4cb5bc7daa1b7792c64aa2e90e4729f"
+        },
+        {
+          "file": "success/ganyu-5.wav",
+          "name": "금방 따라갈게요",
+          "duration": 1.9467083333333333,
+          "source": "https://www.youtube.com/watch?v=9JJ0b5Ipjag",
+          "source_title": "[원신] 감우 대사 모음 (한국어ver.) - 성우 김선혜",
+          "source_start": 800.613312,
+          "leading_trim_seconds": 0.933312,
+          "source_end": 802.08525,
+          "original_end": 801.76,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "91ff4a1e8ead1495cf7c9e9e7c33580edab40ba9b9f45f1062d0902a4d0078a7"
+        }
+      ]
+    },
+    "collei": {
+      "name": "콜레이",
+      "clips": [
+        {
+          "file": "success/collei-1.wav",
+          "name": "야외에서는 항상 보급에 신경 써야 돼",
+          "duration": 3.94,
+          "source": "https://www.youtube.com/watch?v=1dOa6ZKP0Ic",
+          "source_title": "[원신] \"캐릭터 대사\" 『간다르바 성곽의 견습 순찰자 콜레이』 [필드 전투 대사] (with. 콜레이)",
+          "source_start": 38.5,
+          "leading_trim_seconds": 0,
+          "source_end": 41.722604,
+          "original_end": 41.64,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "2b2e126dc608f96ff7124bf29640d65dc494af8e10a9fc03128359d5604946ab"
+        },
+        {
+          "file": "success/collei-2.wav",
+          "name": "정말 운이 좋네",
+          "duration": 2.8,
+          "source": "https://www.youtube.com/watch?v=1dOa6ZKP0Ic",
+          "source_title": "[원신] \"캐릭터 대사\" 『간다르바 성곽의 견습 순찰자 콜레이』 [필드 전투 대사] (with. 콜레이)",
+          "source_start": 44.94,
+          "leading_trim_seconds": 0,
+          "source_end": 47.276146,
+          "original_end": 46.94,
+          "tail_extension_ms": 800,
+          "fade_out_ms": 300,
+          "sha256": "8bb6b5f9a87d6124c4ba4185aa99b60c4638b647befb1c650372258db27dfe21"
+        }
+      ]
+    }
+  },
+  "failure": [
+    {
+      "file": "failure/failure-1.wav",
+      "name": "푸리나 · 결국 실패했구나",
+      "duration": 2.7,
+      "source": "https://www.youtube.com/watch?v=Aqhwo_TVheU",
+      "source_title": "[원신] 푸리나 대사 모음 (한국어ver.) - 성우 김하영",
+      "source_start": 884.14,
+      "leading_trim_seconds": 0,
+      "source_end": 886.6205209999999,
+      "original_end": 886.04,
+      "tail_extension_ms": 800,
+      "fade_out_ms": 300,
+      "sha256": "5b69f7b95d25cdb681d5587807337e2ddc54879cf9f5cb6f8f33dc1405add9c1"
+    },
+    {
+      "file": "failure/failure-2.wav",
+      "name": "클레 · 아 실패했다",
+      "duration": 5.7,
+      "source": "https://www.youtube.com/watch?v=crUgVFUJVIo",
+      "source_title": "[원신] \"캐릭터 대사\" 페보니우스 기사단 불꽃기사 『클레』 [필드 전투 대사] (with. 클레)",
+      "source_start": 83.18,
+      "leading_trim_seconds": 0,
+      "source_end": 88.456958,
+      "original_end": 88.08,
+      "tail_extension_ms": 800,
+      "fade_out_ms": 300,
+      "sha256": "d73d02646b6d56738a6591792cc85ff5f263d9b47bba669baa209608f8510901"
+    },
+    {
+      "file": "failure/failure-3.wav",
+      "name": "나히다 · 전략을 바꿔보자",
+      "duration": 2.4,
+      "source": "https://www.youtube.com/watch?v=dEqjQAb13FA",
+      "source_title": "원신 나히다 대사 모음 (한국어ver.) - 성우 박시윤",
+      "source_start": 674.8,
+      "leading_trim_seconds": 0,
+      "source_end": 676.611083,
+      "original_end": 676.4,
+      "tail_extension_ms": 800,
+      "fade_out_ms": 300,
+      "sha256": "ec6754cc5ffd2100ba8c10944bffcdf6e4ad1977afa450cb95289e7c3c14d4d6"
+    }
+  ],
+  "capture": [
+    {
+      "id": "shutter",
+      "name": "셔터 클릭",
+      "file": "capture/shutter.wav",
+      "duration": 0.125,
+      "source": "Locally synthesized for this application"
+    },
+    {
+      "id": "bell",
+      "name": "맑은 종",
+      "file": "capture/bell.wav",
+      "duration": 0.35,
+      "source": "Locally synthesized for this application"
+    },
+    {
+      "id": "pop",
+      "name": "물방울",
+      "file": "capture/pop.wav",
+      "duration": 0.16,
+      "source": "Locally synthesized for this application"
+    },
+    {
+      "id": "double",
+      "name": "두 번 확인",
+      "file": "capture/double.wav",
+      "duration": 0.33,
+      "source": "Locally synthesized for this application"
+    },
+    {
+      "id": "sparkle",
+      "name": "짧은 반짝임",
+      "file": "capture/sparkle.wav",
+      "duration": 0.32,
+      "source": "Locally synthesized for this application"
+    }
+  ]
+}
